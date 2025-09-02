@@ -13,7 +13,7 @@ Please refer to [LLama-Factory](https://github.com/hiyouga/LLaMA-Factory) to set
 Conduct experiment on unlearning DeepSeek using GA+UOE with the following code:
 
 ```
-llamafactory-cli train examples\Deepseek_WMDP\GA_layer16.yaml
+llamafactory-cli train examples\Deepseek_WMDP\GA_1expert.yaml
 ```
 
 ## Evaluation
