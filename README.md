@@ -1,4 +1,4 @@
-# UOE: UNLEARNING ONE EXPERT IS ENOUGH FOR MIXTURE-OF-EXPERTS LLMS
+# SEUF: Is Unlearning One Expert Enough for Mixture-of-Experts LLMs?
 
 ## Abstract
 
